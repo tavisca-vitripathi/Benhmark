@@ -1,0 +1,11 @@
+C:\Users\vitripathi\source\repos\BenchmarkTest\BenchmarkTest\bin\Release\netcoreapp2.1\BenchmarkTest.deps.json
+C:\Users\vitripathi\source\repos\BenchmarkTest\BenchmarkTest\bin\Release\netcoreapp2.1\BenchmarkTest.runtimeconfig.json
+C:\Users\vitripathi\source\repos\BenchmarkTest\BenchmarkTest\bin\Release\netcoreapp2.1\BenchmarkTest.runtimeconfig.dev.json
+C:\Users\vitripathi\source\repos\BenchmarkTest\BenchmarkTest\bin\Release\netcoreapp2.1\BenchmarkTest.dll
+C:\Users\vitripathi\source\repos\BenchmarkTest\BenchmarkTest\bin\Release\netcoreapp2.1\BenchmarkTest.pdb
+C:\Users\vitripathi\source\repos\BenchmarkTest\BenchmarkTest\obj\Release\netcoreapp2.1\BenchmarkTest.csprojAssemblyReference.cache
+C:\Users\vitripathi\source\repos\BenchmarkTest\BenchmarkTest\obj\Release\netcoreapp2.1\BenchmarkTest.csproj.CoreCompileInputs.cache
+C:\Users\vitripathi\source\repos\BenchmarkTest\BenchmarkTest\obj\Release\netcoreapp2.1\BenchmarkTest.AssemblyInfoInputs.cache
+C:\Users\vitripathi\source\repos\BenchmarkTest\BenchmarkTest\obj\Release\netcoreapp2.1\BenchmarkTest.AssemblyInfo.cs
+C:\Users\vitripathi\source\repos\BenchmarkTest\BenchmarkTest\obj\Release\netcoreapp2.1\BenchmarkTest.dll
+C:\Users\vitripathi\source\repos\BenchmarkTest\BenchmarkTest\obj\Release\netcoreapp2.1\BenchmarkTest.pdb
